@@ -1,8 +1,8 @@
 // Šibenica - Geografia Ázie (6. ročník)
 
 const words = [
-    "kazachstan", "bangladéš", "tadžikistan", "uzbekistan", "mongolsko", "filipíny", "indonézia", "malajzia", "turkmenistan", "kirgizstan", "azerbajdžan", "arménsko", "singapur", "maldivy", "pakistan", "vietnamci", "himálaje", "gobi", "mekong", "amudarja",
-    "hindukúš", "pamírskeho", "aralské more", "kaspické more", "japonské more", "sumatra", "borneo", "tajga", "bambusové lesy", "čajovník", "bavlník"
+    "kazachstan", "bangladéš", "tadžikistan", "uzbekistan", "mongolsko", "filipíny", "indonézia", "malajzia", "turkmenistan", "kirgizstan", "azerbajdžan", "arménsko", "singapur", "maldivy", "pakistan", "vietnamci", "himaláje", "gobi", "mekong", "amudarja",
+    "hindukúš", "pamír", "aralské more", "kaspické more", "japonské more", "sumatra", "borneo", "tajga", "bambusové lesy", "čajovník", "bavlník"
 ];
 
 const wordHints = {
