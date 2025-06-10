@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="sk">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Šibenica - Geografia Ázie</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div id="start-screen">
+        <h1>Šibenica - Geografia Ázie</h1>
+        <button id="start-btn">Štart</button>
+    </div>
+    <div id="game-screen" style="display:none;">
+        <div style="display:flex;justify-content:space-between;align-items:center;">
+            <div id="tries-left" style="font-size:1.1em;color:#d9534f;"></div>
+            <div id="round-info" style="font-size:1.1em;color:#0074d9;"></div>
+        </div>
+        <div id="timer"></div>
+        <div id="hangman"></div>
+        <div id="word"></div>
+        <div id="letters"></div>
+        <div id="info"></div>
+        <button id="next-round-btn" style="display:none;">Ďalšie kolo</button>
+        <button id="restart-btn" style="display:none;">Reštartovať hru</button>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
